@@ -22,7 +22,7 @@ create-oidc-clients = false
 # List of repositories owned by the team.
 # Note that the owners of the repositories must be ScottyLabs-Labrador.
 [[repos]]
-name = "student_housing_colab_with_gsa" # As it appears at the end of the GitHub repository URL
+name = "rentpgh" # As it appears at the end of the GitHub repository URL
 description = "Project to develop a way for CMU students to share their rental experiences and see what landlords/buildings/units are good or bad."
 
 # List of membership records by timeframe.
