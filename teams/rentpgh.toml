@@ -1,10 +1,7 @@
 # The name is used to identify the team publicly (e.g. GitHub org team name).
 name = "The Pittsburgh Student Renters Network"
-
 description = """
-The Pittsburgh Student Renters Network (TPSRN) helps students navigate the rental market by sharing reliable information about rental costs, building quality, and landlord experiences.
-
-Created through a collaboration between the Graduate Student Assembly and ScottyLabs, TPSRN is a student-run platform that combines student advocacy with technical innovation. Our goal is simple: help students make informed housing decisions by learning from each other's experiences.
+The Pittsburgh Student Renters Network (TPSRN) helps students navigate the rental market by sharing reliable information about rental costs, building quality, and landlord experiences. Created through a collaboration between the Graduate Student Assembly and ScottyLabs, TPSRN is a student-run platform that combines student advocacy with technical innovation. Our goal is simple: help students make informed housing decisions by learning from each other's experiences.
 """
 
 # The website and server are not required until the team is ready to deploy.
@@ -28,10 +25,5 @@ description = "Project to develop a way for CMU students to share their rental e
 # List of membership records by timeframe.
 # Note that only the first record will be used for synchronization.
 [[membership]]
-
-# The timeframe can be any string, but we suggest using either the year or semester.
-# E.g. "2026-2027" or "Spring 2026".
 timeframe = "2025-2026"
-
-# List of the GitHub usernames of the leads for this timeframe.
 leads = ["atimmins7"]
